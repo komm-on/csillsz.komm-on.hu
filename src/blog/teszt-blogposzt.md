@@ -8,7 +8,7 @@ teaser: >
 cover: /assets/images/gombócka.jpg
 ---
 
-Gombóc nap mint nap különböző kalandokban vesz részt, amiknek egy része titkos küldetésekből áll. Ebben a bejegyzésben felfedjük a legizgalmasabb (eddig legtitkosabb)
+Gombóc nap mint nap különböző kalandokban vesz részt, aminek egy része titkos küldetésekből áll. Ebben a bejegyzésben felfedjük a legizgalmasabb (eddig legtitkosabb)
 extravextra bevetéseit!
 ![Placeholder](/assets/images/placeholder.png "An image with a caption")
 
